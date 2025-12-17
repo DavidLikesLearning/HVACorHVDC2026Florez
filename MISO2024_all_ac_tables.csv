@@ -1,0 +1,104 @@
+table,value (units),state,positions/circuit,design,69kV,115kV,138kV,161kV,230kV,345kV,500kV,765kV
+4.2-1,upgrade substation (M$),NA,1,ring bus,1.3,1.5,1.7,1.8,2.2,3.4,5.3,17.4
+4.2-1,upgrade substation (M$),NA,1,breaker-and-a-half bus,1.7,2,2.3,2.6,3,4.9,7.3,21.9
+4.2-1,upgrade substation (M$),NA,1,double-breaker bus,2,2.3,2.6,2.9,3.4,5.4,8,22.7
+4.2-1,upgrade substation (M$),NA,2,ring bus,2.5,3,3.3,3.7,4.3,6.8,10.6,26.7
+4.2-1,upgrade substation (M$),NA,2,breaker-and-a-half bus,3.2,3.7,4.1,4.6,5.4,8.6,13,31.7
+4.2-1,upgrade substation (M$),NA,2,double-breaker bus,4,4.6,5.2,5.8,6.8,10.7,15.9,37.3
+4.2-2,new substation (M$),NA,4,ring bus,7.5,8.3,9.1,9.8,11.1,15.8,22.9,47.5
+4.2-2,new substation (M$),NA,4,breaker-and-a-half bus,8.9,10,11,11.9,13.6,19.8,28.7,58.8
+4.2-2,new substation (M$),NA,4,double-breaker bus,10.3,11.5,12.7,13.9,15.9,23.7,34.6,71.3
+4.2-2,new substation (M$),NA,6,ring bus,9.4,10.6,11.6,12.6,14.5,21.1,30.8,63
+4.2-2,new substation (M$),NA,6,breaker-and-a-half bus,11.4,12.9,14.2,15.5,18,26.9,39.3,80.8
+4.2-2,new substation (M$),NA,6,double-breaker bus,13.4,15.2,16.8,18.4,21.3,32.3,47.4,97.3
+4.1-3,rebuild (M$/mile),NA,1,AC,1.5,1.7,1.8,1.8,1.9,NA,NA,NA
+4.1-3,rebuild (M$/mile),NA,2,AC,2.3,2.6,NA,NA,NA,NA,NA,NA
+4.1-3,reconductor (M$/mile),NA,1,AC,0.33,0.39,0.39,0.39,0.39,0.62,0.83,1.14
+4.1-2,new double circuit (M$/mile),Arkansas,2,AC,2.5,2.8,2.9,3,3.6,5.8,NA,NA
+4.1-2,new double circuit (M$/mile),Illinois,2,AC,2.5,2.8,3,3,3.6,5.9,NA,NA
+4.1-2,new double circuit (M$/mile),Indiana,2,AC,2.4,2.7,2.9,3,3.5,5.8,NA,NA
+4.1-2,new double circuit (M$/mile),Iowa,2,AC,2.5,2.8,2.9,3,3.6,5.8,NA,NA
+4.1-2,new double circuit (M$/mile),Kentucky,2,AC,2.6,2.9,3,3.1,3.7,6,NA,NA
+4.1-2,new double circuit (M$/mile),Louisiana,2,AC,2.8,3.1,3.3,3.3,4,6.4,NA,NA
+4.1-2,new double circuit (M$/mile),Michigan,2,AC,2.6,2.9,3,3.1,3.7,6,NA,NA
+4.1-2,new double circuit (M$/mile),Minnesota,2,AC,2.5,2.8,3,3.1,3.6,6,NA,NA
+4.1-2,new double circuit (M$/mile),Mississippi,2,AC,2.7,3.1,3.2,3.3,4,6.4,NA,NA
+4.1-2,new double circuit (M$/mile),Missouri,2,AC,2.5,2.8,2.9,3,3.5,5.8,NA,NA
+4.1-2,new double circuit (M$/mile),Montana,2,AC,2.3,2.6,2.8,2.8,3.3,5.5,NA,NA
+4.1-2,new double circuit (M$/mile),North Dakota,2,AC,2.4,2.7,2.8,2.9,3.4,5.6,NA,NA
+4.1-2,new double circuit (M$/mile),South Dakota,2,AC,2.4,2.7,2.8,2.9,3.4,5.6,NA,NA
+4.1-2,new double circuit (M$/mile),Texas,2,AC,2.7,3,3.2,3.3,3.9,6.3,NA,NA
+4.1-2,new double circuit (M$/mile),Wisconsin,2,AC,2.6,2.9,3,3.1,3.7,6,NA,NA
+4.1-1,new single circuit (M$/mile),Arkansas,1,AC,1.7,1.9,2,2.1,2.2,3.5,4.4,5.5
+4.1-1,new single circuit (M$/mile),Illinois,1,AC,1.8,2,2,2.1,2.2,3.6,4.5,5.6
+4.1-1,new single circuit (M$/mile),Indiana,1,AC,1.7,1.9,2,2,2.1,3.4,4.3,5.4
+4.1-1,new single circuit (M$/mile),Iowa,1,AC,1.7,1.9,2,2.1,2.2,3.5,4.4,5.6
+4.1-1,new single circuit (M$/mile),Kentucky,1,AC,1.8,2,2.1,2.2,2.3,3.7,4.6,5.8
+4.1-1,new single circuit (M$/mile),Louisiana,1,AC,2,2.2,2.3,2.4,2.6,4.1,5.1,6.3
+4.1-1,new single circuit (M$/mile),Michigan,1,AC,1.8,2,2.1,2.2,2.3,3.7,4.6,5.8
+4.1-1,new single circuit (M$/mile),Minnesota,1,AC,1.8,2,2.1,2.1,2.3,3.6,4.5,5.7
+4.1-1,new single circuit (M$/mile),Mississippi,1,AC,2,2.2,2.3,2.4,2.6,4.1,5,6.3
+4.1-1,new single circuit (M$/mile),Missouri,1,AC,1.7,1.9,2,2,2.2,3.5,4.4,5.5
+4.1-1,new single circuit (M$/mile),Montana,1,AC,1.6,1.8,1.9,1.9,2,3.2,4.1,5.2
+4.1-1,new single circuit (M$/mile),North Dakota,1,AC,1.6,1.8,1.9,1.9,2,3.3,4.1,5.2
+4.1-1,new single circuit (M$/mile),South Dakota,1,AC,1.6,1.8,1.9,1.9,2,3.3,4.1,5.2
+4.1-1,new single circuit (M$/mile),Texas,1,AC,1.9,2.2,2.3,2.3,2.5,4,4.9,6.1
+4.1-1,new single circuit (M$/mile),Wisconsin,1,AC,1.8,2,2.1,2.2,2.3,3.7,4.6,5.8
+3.2-1,substation ratings (kA),NA,NA,NA,1.2,3,3,3,3,3,3,4
+3.2-1,substation ratings (MVA),NA,NA,NA,143,598,717,837,1195,1793,2598,5300
+3.1-5,conductor size (kcmil),NA,1,AC,477,795,795,795,795,795,954,795
+3.1-5,conductor material,NA,NA,AC,ACSS,ACSS,ACSS,ACSS,ACSS,ACSS,ACSR,ACSR
+prioritywire_midal,resistance 75C (ohms/km),NA,NA,2021PriorityWire&Cable,0.1419,0.0891,0.0891,0.0891,0.0891,0.0891,0.0759,0.0891
+3.1-5,conductor rating (kA),NA,NA,AC,1,2,2,2,2,3,3,5
+3.1-5,conductor rating (MVA),NA,NA,AC,140,329,394,460,657,1792,2598,6625
+3.1-5,quantity,NA,NA,AC,1,1,1,1,1,2,3,6
+3.1-1,right-of-way width (feet),NA,NA,AC,80,90,95,100,125,175,200,225
+2.2-2,Steel weight (lbs.),NA,1,Tangent,6100,6900,7300,8100,10100,20300,27000,34320
+2.2-2,Foundation size (Cu. Yd),NA,1,Tangent,8.5,11.5,13.5,14.5,15.5,19.5,33.5,39
+2.2-2,Material ($),NA,1,Tangent,13213,14946,15812,17545,21877,43971,58483,89049
+2.2-2,Installation ($),NA,1,Tangent,19820,22419,23719,26318,32816,65957,87725,133570
+2.2-2,Hardware ($),NA,1,Tangent,4783,5580,5979,6776,7970,10665,11676,23428
+2.2-2,Foundation ($),NA,1,Tangent,13223,17890,21001,22557,24113,30335,52114,60668
+2.2-2,Steel weight (lbs.),NA,1,Running,9200,10400,11000,12200,15200,30500,39800,89040
+2.2-2,Foundation size (Cu. Yd),NA,1,Running,16,19,19.5,22,24.5,39,72.5,81
+2.2-2,Material ($),NA,1,Running,19928,22527,23827,26426,32924,66064,86209,231962
+2.2-2,Installation ($),NA,1,Running,29891,33790,35740,39639,49386,99097,129313,347937
+2.2-2,Hardware ($),NA,1,Running,4783,5580,5979,6776,7970,10665,11676,23428
+2.2-2,Foundation ($),NA,1,Running,24890,29557,30335,34224,38113,60669,112783,126003
+2.2-2,Steel weight (lbs.),NA,1,Deadend,10400,11700,12400,13800,17200,34500,45900,108273
+2.2-2,Foundation size (Cu. Yd),NA,1,Deadend,21.5,25,25.5,28.5,34,48.5,96,180
+2.2-2,Material ($),NA,1,Deadend,22527,25343,26859,29891,37256,74729,99422,280929
+2.2-2,Installation ($),NA,1,Deadend,33970,38015,40288,44837,55884,112094,149133,421387
+2.2-2,Hardware ($),NA,1,Deadend,9430,11002,11788,13359,15177,38332,60298,23428
+2.2-2,Foundation ($),NA,1,Deadend,33446,38890,39669,44336,52891,75448,149339,248895
+2.2-4,Steel weight (lbs.),NA,2,Tangent,9200,10400,11000,12200,15200,36000,NA,NA
+2.2-4,Foundation size (Cu. Yd),NA,2,Tangent,13,17,19.5,21,22,31.5,NA,NA
+2.2-4,Material ($),NA,2,Tangent,19928,22527,23827,26426,32924,77978,NA,NA
+2.2-4,Installation ($),NA,2,Tangent,29891,33790,35740,39639,49386,116967,NA,NA
+2.2-4,Hardware ($),NA,2,Tangent,9311,10863,11638,13190,15518,20881,NA,NA
+2.2-4,Foundation ($),NA,2,Tangent,20223,26445,30335,32668,34224,49002,NA,NA
+2.2-4,Steel weight (lbs.),NA,2,Running,13800,15600,16500,18300,22800,53100,NA,NA
+2.2-4,Foundation size (Cu. Yd),NA,2,Running,22.5,28,34.5,37.5,46.5,59,NA,NA
+2.2-4,Material ($),NA,2,Running,29776,33790,35740,39639,49386,115017,NA,NA
+2.2-4,Installation ($),NA,2,Running,44837,50568,53610,59459,74079,172526,NA,NA
+2.2-4,Hardware ($),NA,2,Running,9311,10863,11638,13190,15518,20881,NA,NA
+2.2-4,Foundation ($),NA,2,Running,35002,43557,53669,58336,72337,91781,NA,NA
+2.2-4,Steel weight (lbs.),NA,2,Deadend,16100,18200,19300,21400,26600,61200,NA,NA
+2.2-4,Foundation size (Cu. Yd),NA,2,Deadend,28.5,34.5,43,48.5,70.5,86.5,NA,NA
+2.2-4,Material ($),NA,2,Deadend,34873,39422,41805,46335,57167,132562,NA,NA
+2.2-4,Installation ($),NA,2,Deadend,52311,59133,62708,69530,86425,198843,NA,NA
+2.2-4,Hardware ($),NA,2,Deadend,18598,21699,23249,26348,30998,76240,NA,NA
+2.2-4,Foundation ($),NA,2,Deadend,44336,53669,66891,75448,109671,134561,NA,NA
+3.1-2,structures per mile (single/double),NA,NA,Tangent,9/9.5,8.5/9,8/8.5,7/7.5,5/7,4.5/6,3.0/NA,3.5/NA
+3.1-2,structures per mile (single/double),NA,NA,Running,1/1,1/1,1/1,1/1,1/1,1/1,1/NA,0.25/NA
+3.1-2,structures per mile (single/double),NA,NA,Deadend,0.25/0.25,0.25/0.25,0.25/0.25,0.25/0.25,0.25/0.25,0.25/0.25,0.25/NA,0.125/NA
+3.1-2,structures per mile (single/double),NA,NA,Angled Deadend,0.25/0.25,0.25/0.25,0.25/0.25,0.25/0.25,0.25/0.25,0.25/0.25,0.25/NA,0.125/NA
+,Power Transfer  (MW),NA,NA,LCC,500,1500,2000,2400,3000,,,
+,Assumed Reactive Power Need (MVAR),NA,NA,LCC,167,500,667,800,"1,000",,,
+,Ground electrode line (miles),NA,NA,LCC,20,20,20,20,20,,,
+,Valve hall ($M),NA,NA,LCC,34.7,127.4,173.7,214.3,267.9,,,
+,AC filters ($M),NA,NA,LCC,3.5,12.7,17.4,21.4,26.8,,,
+,Reactive power ($M),NA,NA,LCC,19.1,57.1,76.2,91.4,114.2,,,
+,AC Substation ($M),NA,NA,LCC,12.4,18.2,26.4,26.4,35.3,,,
+,Ground electrode ($M),NA,NA,LCC,3.1,4.2,4.3,4.5,4.7,,,
+,Ground electrode line ($M),NA,NA,LCC,4.6,11.6,13.9,17.4,18.8,,,
